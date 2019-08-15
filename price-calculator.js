@@ -13,7 +13,7 @@ module.exports = {
             }
             sets.push(uniqueBooks);
         }
-console.log(sets)
+
         var totalPrice = 0;
 
         sets.forEach(set => {
